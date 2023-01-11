@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Edwin Perez from Stockholm, Sweden.
--    I’m interested in photography, cloud, databases, artificial intelligence and mobile development.
-- 🌱 I’m currently learning Python, increasing my knowledge in Java and general best practices in programming. 
+- 👋 Hi, I’m Edwin from Stockholm, Sweden.
+-    I’m interested in API:s, Fullstack, DevOps, automation, cloud and photography.
+- 🌱 I’m currently learning Python, increasing my knowledge in C# and general best practices in programming. 
 
 <!---
 - 📫 How to reach me ...
